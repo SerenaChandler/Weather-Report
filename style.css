@@ -1,0 +1,12 @@
+.searchButton {
+    border-radius: 5px;
+    background-color: azure;
+}
+
+
+.currentWeather {
+    border: solid gray 2px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}

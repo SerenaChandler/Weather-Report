@@ -1,6 +1,7 @@
 .searchButton {
     border-radius: 5px;
-    background-color: azure;
+    background-color: rgb(70, 70, 70);
+    color: white;
 }
 
 
@@ -11,7 +12,9 @@
 
 }
 
-.day-1 {
+.day-1, .day-2, .day-3, .day-4, .day-5     {
+    color: white;
     border-radius: 15px;
-    background-color: rgb(114, 247, 247);
+    background-color: rgb(19, 113, 255);
+    margin-right: 10px;
 }

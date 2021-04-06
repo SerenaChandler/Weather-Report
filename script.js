@@ -4,6 +4,7 @@ var cityInput = $("#area")
 searchHistory = $("#history")
 console.log(city)
 
+
 var city = ""
 console.log(cityInput)
 
@@ -130,3 +131,4 @@ var forcastApiURL = "https://api.openweathermap.org/data/2.5/forecast?q=" + city
 searchBtn.on("click", SearchHandler)
 
 
+searchHistory.on("click", SearchHandler)
